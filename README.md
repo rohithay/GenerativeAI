@@ -11,6 +11,7 @@
 
 ## Prompt Engineering
 - Claude Prompt Library: https://docs.anthropic.com/en/prompt-library/library
+- Use XML Tags: https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/use-xml-tags
 
 ## Claude MCP
 - Claude Desktop: https://claude.ai/download
