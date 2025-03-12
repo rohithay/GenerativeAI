@@ -13,3 +13,6 @@
 ## Claude MCP
 - Claude Desktop: https://claude.ai/download
 - MCP Overview: https://github.com/modelcontextprotocol
+
+## ChatGPT
+- ChatGPT Overview: https://openai.com/index/chatgpt/
