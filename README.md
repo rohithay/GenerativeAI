@@ -7,8 +7,10 @@
 - Claude Developer Docs: https://docs.anthropic.com/en/home
 - Claude User Guides: https://docs.anthropic.com/en/docs/welcome
 - Claude API Reference: https://docs.anthropic.com/en/api/getting-started
-- Claude Prompt Library: https://docs.anthropic.com/en/prompt-library/library
 - Claude Release Notes: https://docs.anthropic.com/en/release-notes/overview
+
+## Prompt Engineering
+- Claude Prompt Library: https://docs.anthropic.com/en/prompt-library/library
 
 ## Claude MCP
 - Claude Desktop: https://claude.ai/download
