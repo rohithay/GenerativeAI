@@ -11,4 +11,5 @@
 - Claude Release Notes: https://docs.anthropic.com/en/release-notes/overview
 
 ## Claude MCP
+- Claude Desktop: https://claude.ai/download
 - MCP Overview: https://github.com/modelcontextprotocol
