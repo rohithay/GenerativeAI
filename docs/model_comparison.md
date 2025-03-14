@@ -30,11 +30,13 @@ Think of these models in terms of speed and capability. The `y` height of the `(
 ## Claude Models
 
 ### Claude 3.7 Sonnet
+- `Tag`: `Our most intelligent model yet`
 - **Key Capabilities**: Latest reasoning model with extended thinking capabilities for Pro users
 - **Best For**: Complex reasoning, thoughtful analysis, detailed responses
 - **Pricing**: Available via API and Claude Pro subscription
 
 ### Claude 3.5 Sonnet
+- `Tag`: `Fastest model for daily tasks`
 - **Key Capabilities**: Strong all-around performance for various tasks
 - **Best For**: Content creation, analysis, programming assistance
 - **Pricing**: Available via API and Claude Pro subscription
