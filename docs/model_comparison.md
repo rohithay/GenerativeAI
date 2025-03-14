@@ -1,7 +1,7 @@
 # AI Model Comparison: GitHub, Claude, and ChatGPT Models
 Think of these models in terms of speed and capability. The `y` height of the `(x, y)` is also known as the "Pareto Frontier".
-- Claude 3.5 Sonnet and Gemini models are most capable.
-- Source Graph's Cody is very fast.
+- Claude 3.5 Sonnet and Gemini models are most capable. This model is usually used for `chat` feature.
+- Source Graph's Cody is very fast. This model is used in `Auto complete` feature.
 
 
 ## OpenAI Models
