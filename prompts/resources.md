@@ -1,1 +1,2 @@
 - https://smith.langchain.com/hub
+- https://templates.langchain.com: sets of code blocks that are ready to use out of the pocket.
